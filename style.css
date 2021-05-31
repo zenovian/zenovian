@@ -1,0 +1,27 @@
+body{
+   
+
+background-color: coral;
+}
+    
+h1{
+    font-size: 70px;
+}
+p{ 
+    font-size: 30;
+    font-family: cursive;
+}
+#image1{
+    width: 350px;
+    height: 350px;
+}
+#image2{
+    width: 350px;
+    height: 350px;
+}
+#image3{
+  width: 350px;
+    height: 350px;
+}
+
+
